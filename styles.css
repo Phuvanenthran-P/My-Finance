@@ -6,6 +6,7 @@ body {
 }
 
 .container {
+    max-width: devive-width;
     margin: auto;
     background: white;
     padding: 30px;
